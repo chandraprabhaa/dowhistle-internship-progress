@@ -33,3 +33,28 @@ Role: GenAI Intern
 
 ### Resources
 - https://developers.openai.com/api/docs
+
+___
+
+## Day 3 - 15 May 2026
+
+### Learned Today
+
+- Responses API – Learned how AI generates responses.
+- Chat Completions – Understood conversational AI interactions.
+- Structured Outputs – Explored formatted AI outputs.
+- Agents SDK – Learned AI agent workflow concepts.
+- Embeddings – Studied semantic search concepts.
+- Moderation API – Understood content filtering and safety features.
+- Batch API – Learned bulk API request processing.
+- Files API – Explored file handling and management.
+- Prompt Engineering – Practiced creating effective prompts.
+- API Security & Authentication – Learned API security methods.
+- Webhooks – Understood event-based communication concepts.
+
+### Resources
+
+- OpenAI API Documentation
+  https://developers.openai.com/api/docs
+
+  ___
