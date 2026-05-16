@@ -55,3 +55,30 @@ ___
   https://developers.openai.com/api/docs
 
   ___
+
+## Day 4 – 16 May 2026
+
+### Learned Today
+
+- LangChain Fundamentals
+- Prompt Templates & Chains
+- Structured Outputs & Parsers
+- Embeddings & Vector Databases
+- RAG (Retrieval Augmented Generation)
+- Tools & AI Agents
+- Difference Between LangChain, LangGraph & LangSmith
+- AI Workflow Architecture
+
+### Key Concepts Understood
+
+- AI apps use workflows, tools, and agents.
+- RAG and embeddings improve AI knowledge retrieval.
+- LangChain builds workflows, LangGraph manages complex agent flows, and LangSmith monitors AI systems.
+
+### Resources
+
+https://youtu.be/vJOGC8QJZJQ?si=vT_I3gMJi7OPy0hi
+
+https://youtu.be/e-GR3PlEOVU?si=S7pgQcl8hG0PCOCO
+
+https://youtu.be/DlIAd4Rtkr8?si=kb-QBK_1CY4_Hu56
