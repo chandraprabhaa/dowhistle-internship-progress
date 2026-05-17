@@ -1,107 +1,186 @@
-# DoWhistle Internship Progress
+# 🚀 DoWhistle Internship Progress Tracker
 
-Name: Chandraprabha A
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=GenAI+Internship+Journey;Learning+OpenAI+%7C+LangChain+%7C+Agents;Building+AI+Workflows+Step+by+Step" alt="Typing SVG" />
+</p>
 
-Role: GenAI Intern  
-
----
-
-## Day 1 - 13 May 2026
-
-### Learned Today
-- Introduction to OpenAI API
-- OpenAI Models and Capabilities
-- Text Generation Concepts
-- Basic API Request and Response Structure
-- AI Application Integration with OpenAI Models
-- Image Generation APIs
-
-### Resources
-- https://developers.openai.com/api/docs
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-GenAI%20Intern-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-AI%20Engineering-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-APIs-black?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/LangChain-Workflows-blue?style=for-the-badge"/>
+</p>
 
 ---
 
-## Day 2 - 14 May 2026
+# 👨‍💻 Intern Details
 
-### Learned Today
-- Vision APIs and Image Understanding
-- Audio APIs and Speech Processing
-- Realtime API Concepts
-- Function Calling and Tool Integration
-- Embeddings and Semantic Search
-- Fine-Tuning and Model Customization
+- **Name:** Chandraprabha A  
+- **Role:** GenAI Intern  
+- **Organization:** DoWhistle  
 
-### Resources
-- https://developers.openai.com/api/docs
+---
 
-___
+# 📅 Day 1 — 13 May 2026
 
-## Day 3 - 15 May 2026
+## 📚 Learned Today
 
-### Learned Today
+✅ Introduction to OpenAI API  
+✅ OpenAI Models and Capabilities  
+✅ Text Generation Concepts  
+✅ Basic API Request and Response Structure  
+✅ AI Application Integration with OpenAI Models  
+✅ Image Generation APIs  
 
-- Responses API – Learned how AI generates responses.
-- Chat Completions – Understood conversational AI interactions.
-- Structured Outputs – Explored formatted AI outputs.
-- Agents SDK – Learned AI agent workflow concepts.
-- Moderation API – Understood content filtering and safety features.
-- Batch API – Learned bulk API request processing.
-- Prompt Engineering – Practiced creating effective prompts.
-- API Security & Authentication – Learned API security methods.
+---
 
-### Resources
+## 🔗 Resources
 
-- OpenAI API Documentation
-  https://developers.openai.com/api/docs
+🌐 OpenAI API Documentation  
+🔗 https://developers.openai.com/api/docs
 
-  ___
+---
 
-## Day 4 – 16 May 2026
+# 📅 Day 2 — 14 May 2026
 
-### Learned Today
+## 📚 Learned Today
 
-- LangChain Fundamentals
-- Prompt Templates & Chains
-- Structured Outputs & Parsers
-- Embeddings & Vector Databases
-- RAG (Retrieval Augmented Generation)
-- Tools & AI Agents
-- Difference Between LangChain, LangGraph & LangSmith
-- AI Workflow Architecture
+🖼️ Vision APIs and Image Understanding  
+🎙️ Audio APIs and Speech Processing  
+⚡ Realtime API Concepts  
+🛠️ Function Calling and Tool Integration  
+🧠 Embeddings and Semantic Search  
+🎯 Fine-Tuning and Model Customization  
 
-### Key Concepts Understood
+---
 
-- AI apps use workflows, tools, and agents.
-- RAG and embeddings improve AI knowledge retrieval.
-- LangChain builds workflows, LangGraph manages complex agent flows, and LangSmith monitors AI systems.
+## 🔗 Resources
 
-### Resources
+🌐 OpenAI API Documentation  
+🔗 https://developers.openai.com/api/docs
 
-https://youtu.be/vJOGC8QJZJQ?si=vT_I3gMJi7OPy0hi
+---
 
-https://youtu.be/e-GR3PlEOVU?si=S7pgQcl8hG0PCOCO
+# 📅 Day 3 — 15 May 2026
 
-https://youtu.be/DlIAd4Rtkr8?si=kb-QBK_1CY4_Hu56
+## 📚 Learned Today
 
-___
+🤖 Responses API – Learned how AI generates responses  
+💬 Chat Completions – Understood conversational AI interactions  
+📦 Structured Outputs – Explored formatted AI outputs  
+🧩 Agents SDK – Learned AI agent workflow concepts  
+🛡️ Moderation API – Understood content filtering and safety features  
+⚙️ Batch API – Learned bulk API request processing  
+🎯 Prompt Engineering – Practiced creating effective prompts  
+🔐 API Security & Authentication – Learned API security methods  
 
-## Day 5 – 17 May 2026
+---
 
-### Learned Today
+## 🔗 Resources
 
-- SQL Agents & Data Analysis Workflows
-- Voice Agents & Multi-Agent Systems
-- Memory Management & Context Engineering
-- Customer Support Workflows
-- Knowledge Base Routing Systems
-- Agent State & Workflow Handling
+🌐 OpenAI API Documentation  
+🔗 https://developers.openai.com/api/docs
 
-### Key Concepts Understood
+---
 
-- AI agents can automate workflows and data analysis tasks.
-- Memory and context improve conversational AI performance.
-- Multi-agent systems help manage complex AI operations.
+# 📅 Day 4 — 16 May 2026
 
-### Resources
+## 📚 Learned Today
 
-https://docs.langchain.com/oss/python/learn
+🔗 LangChain Fundamentals  
+🧠 Prompt Templates & Chains  
+📦 Structured Outputs & Parsers  
+📚 Embeddings & Vector Databases  
+🔎 RAG (Retrieval Augmented Generation)  
+🛠️ Tools & AI Agents  
+⚡ Difference Between LangChain, LangGraph & LangSmith  
+🏗️ AI Workflow Architecture  
+
+---
+
+## 💡 Key Concepts Understood
+
+✨ AI apps use workflows, tools, and agents  
+✨ RAG and embeddings improve AI knowledge retrieval  
+✨ LangChain builds workflows, LangGraph manages complex agent flows, and LangSmith monitors AI systems  
+
+---
+
+## 🔗 Resources
+
+🎥 LangChain Tutorial  
+🔗 https://youtu.be/vJOGC8QJZJQ?si=vT_I3gMJi7OPy0hi
+
+🔗 https://youtu.be/e-GR3PlEOVU?si=S7pgQcl8hG0PCOCO
+
+🔗 https://youtu.be/DlIAd4Rtkr8?si=kb-QBK_1CY4_Hu56
+
+---
+
+# 📅 Day 5 — 17 May 2026
+
+## 📚 Learned Today
+
+📊 SQL Agents & Data Analysis Workflows  
+🎙️ Voice Agents & Multi-Agent Systems  
+🧠 Memory Management & Context Engineering  
+💬 Customer Support Workflows  
+📚 Knowledge Base Routing Systems  
+⚙️ Agent State & Workflow Handling  
+
+---
+
+## 💡 Key Concepts Understood
+
+✨ AI agents can automate workflows and data analysis tasks  
+✨ Memory and context improve conversational AI performance  
+✨ Multi-agent systems help manage complex AI operations  
+
+---
+
+## 🔗 Resources
+
+🌐 LangChain Documentation  
+🔗 https://docs.langchain.com/oss/python/learn
+
+---
+
+# 🛠️ Technologies Explored
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-API-black?logo=openai&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-AgenticAI-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-VectorDB-success?style=flat-square"/>
+</p>
+
+---
+
+# 📈 Internship Progress
+
+```text
+Day 1  ████░░░░░░ 40%
+Day 2  ██████░░░░ 60%
+Day 3  ███████░░░ 70%
+Day 4  █████████░ 90%
+Day 5  ██████████ 100%
+
+---
+
+🌟 Goals
+
+- Build AI-powered applications
+- Master OpenAI APIs
+- Learn Agentic AI Systems
+- Explore LangChain Ecosystem
+- Develop Production-Ready AI Workflows
+
+---
+
+<p align="center">
+  ⭐ Learning Never Stops ⭐
+</p>
+```
