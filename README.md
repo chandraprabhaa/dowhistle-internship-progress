@@ -82,3 +82,26 @@ https://youtu.be/vJOGC8QJZJQ?si=vT_I3gMJi7OPy0hi
 https://youtu.be/e-GR3PlEOVU?si=S7pgQcl8hG0PCOCO
 
 https://youtu.be/DlIAd4Rtkr8?si=kb-QBK_1CY4_Hu56
+
+___
+
+## Day 5 – 17 May 2026
+
+### Learned Today
+
+- SQL Agents & Data Analysis Workflows
+- Voice Agents & Multi-Agent Systems
+- Memory Management & Context Engineering
+- Customer Support Workflows
+- Knowledge Base Routing Systems
+- Agent State & Workflow Handling
+
+### Key Concepts Understood
+
+- AI agents can automate workflows and data analysis tasks.
+- Memory and context improve conversational AI performance.
+- Multi-agent systems help manage complex AI operations.
+
+### Resources
+
+https://docs.langchain.com/oss/python/learn
