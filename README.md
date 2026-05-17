@@ -180,7 +180,7 @@ Day 5  ██████████ 100%
 
 ---
 
-<p align="center">
-  ⭐ Learning Never Stops ⭐
-</p>
+
+⭐ Learning Never Stops ⭐
+
 ```
