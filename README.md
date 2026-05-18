@@ -144,6 +144,58 @@
 🔗 https://docs.langchain.com/oss/python/learn
 
 ---
+## 📅 Day 6 — 18 May 2026
+
+### 📚 Learned Today
+
+🎙️ AI Voice Assistant using Groq & Whisper
+⚡ Streamlit App Setup
+🔐 API Key & Environment Variable Management
+🧠 Prompt Engineering for Emergency AI
+🔄 LLM Integration using Groq API
+📦 Modular AI Project Structure
+
+### 💡 Key Concepts
+
+✨ Voice assistants combine speech processing and LLM workflows
+✨ Streamlit helps build interactive AI apps quickly
+✨ Environment variables improve API security
+✨ AI systems can support safety and emergency workflows
+
+### 🚀 Current Project
+
+### 🎙️ AI Voice Emergency & Safety Assistant
+
+Tech Stack:
+
+- Groq API
+- Whisper
+- Streamlit
+- LangChain
+
+### Current Features
+
+✅ Streamlit UI
+✅ Groq API Integration
+✅ AI Response Generation
+
+### Upcoming Features
+
+🔄 Voice-to-Text
+🔄 Emergency Detection
+🔄 RAG-based Knowledge Retrieval
+🔄 Conversational Memory
+
+### 🔗 Resources
+
+🌐 Groq Console
+https://console.groq.com/keys
+
+🌐 Streamlit Docs
+https://docs.streamlit.io/
+
+🌐 LangChain Docs
+https://docs.langchain.com/oss/python/learn
 
 # 🛠️ Technologies Explored
 
