@@ -211,17 +211,6 @@ https://docs.langchain.com/oss/python/learn
 
 ---
 
-# 📈 Internship Progress
-
-```text
-Day 1  ████░░░░░░ 40%
-Day 2  ██████░░░░ 60%
-Day 3  ███████░░░ 70%
-Day 4  █████████░ 90%
-Day 5  ██████████ 100%
-
----
-
 🌟 Goals
 
 - Build AI-powered applications
