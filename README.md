@@ -199,9 +199,9 @@ https://docs.langchain.com/oss/python/learn
 
 ---
 
-📅 Day 7 — 19 May 2026
+## 📅 Day 7 — 19 May 2026
 
-📚 Learned Today
+### 📚 Learned Today
 
 🎙️ AI Voice Emergency Assistant
 🧠 Whisper AI Speech-to-Text
@@ -210,16 +210,16 @@ https://docs.langchain.com/oss/python/learn
 🎧 Audio Processing Workflow
 🛠️ PyAudio & FFmpeg Setup Fixes
 
-💡 Key Concepts
+### 💡 Key Concepts
 
 ✨ Voice AI combines speech recognition with LLMs
 ✨ Whisper improves speech-to-text accuracy
 ✨ Streamlit enables fast AI app development
 ✨ Real-time AI responses enhance emergency support
 
-🚀 Current Project
+### 🚀 Current Project
 
-🎙️ AI Voice Emergency & Safety Assistant
+## 🎙️ AI Voice Emergency & Safety Assistant
 
 ✅ Voice Recording
 ✅ Speech-to-Text
