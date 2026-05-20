@@ -231,6 +231,40 @@ https://docs.langchain.com/oss/python/learn
 
 ---
 
+📅 Day 8 — 20 May 2026
+
+📚 Learned Today
+
+📄 AI Document Q&A System (RAG Project)
+🧠 LangChain Framework Basics
+📚 PDF Document Processing
+✂️ Text Chunking Techniques
+🗂️ FAISS Vector Database
+🤗 HuggingFace Embeddings
+⚡ Groq API + LLM Integration
+🔍 Semantic Search & Retrieval
+🛠️ Package Compatibility & Environment Setup Fixes
+
+💡 Key Concepts
+
+✨ RAG combines retrieval with LLM-based answering
+✨ Vector embeddings help AI understand document meaning
+✨ FAISS enables fast semantic similarity search
+✨ LangChain simplifies AI workflow orchestration
+✨ Chunking improves retrieval accuracy for large documents
+
+🚀 Current Project
+
+📄 AI Document Q&A System
+
+✅ PDF Upload Handling
+✅ Text Extraction & Chunking
+✅ Vector Embedding Generation
+✅ Semantic Document Search
+✅ AI-Based Question Answering
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
