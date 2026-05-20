@@ -231,9 +231,9 @@ https://docs.langchain.com/oss/python/learn
 
 ---
 
-📅 Day 8 — 20 May 2026
+## 📅 Day 8 — 20 May 2026
 
-📚 Learned Today
+### 📚 Learned Today
 
 📄 AI Document Q&A System (RAG Project)
 🧠 LangChain Framework Basics
@@ -245,7 +245,7 @@ https://docs.langchain.com/oss/python/learn
 🔍 Semantic Search & Retrieval
 🛠️ Package Compatibility & Environment Setup Fixes
 
-💡 Key Concepts
+### 💡 Key Concepts
 
 ✨ RAG combines retrieval with LLM-based answering
 ✨ Vector embeddings help AI understand document meaning
@@ -253,9 +253,9 @@ https://docs.langchain.com/oss/python/learn
 ✨ LangChain simplifies AI workflow orchestration
 ✨ Chunking improves retrieval accuracy for large documents
 
-🚀 Current Project
+### 🚀 Current Project
 
-📄 AI Document Q&A System
+### 📄 AI Document Q&A System
 
 ✅ PDF Upload Handling
 ✅ Text Extraction & Chunking
