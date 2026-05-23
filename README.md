@@ -25,178 +25,110 @@
 
 ---
 
-# 📅 Day 1 — 13 May 2026
+# 📅 Day 1 — OpenAI API Basics
 
-## 🤖 Introduction to Generative AI
-
-### 📚 Learned Today
-- Basics of Artificial Intelligence
-- Introduction to Generative AI
-- Understanding LLMs (Large Language Models)
-- OpenAI & Groq APIs
-- Python Environment Setup
-- VS Code Setup for AI Development
+## 📚 Learned Today
+- OpenAI API Overview
+- Quickstart Guide
+- Models
+- Pricing
+- API Keys
 
 ---
 
-### 💡 Key Concepts
-✨ Generative AI creates human-like content  
-✨ APIs allow AI model integration into applications  
-✨ Python is widely used for AI development  
-✨ Environment setup is important for smooth workflows  
+## 💡 Learning Outcome
+✨ Understood the fundamentals of OpenAI APIs  
+✨ Learned how prompts generate AI responses  
+✨ Explored different OpenAI models and API structure  
+✨ Gained basic understanding of API authentication and usage  
 
 ---
 
-### 🛠️ Technologies Explored
-- Python
-- VS Code
-- OpenAI API
-- Groq API
+# 📅 Day 2 — OpenAI API Core Concepts
+
+## 📚 Learned Today
+- Text Generation
+- Code Generation
+- Structured Output
+- Function Calling
+- Responses API
 
 ---
 
-### 🚀 Progress
-✅ Development Environment Setup  
-✅ API Testing Completed  
+## 💡 Learning Outcome
+✨ Learned how OpenAI APIs handle different AI tasks  
+✨ Improved understanding of API workflows and responses  
+✨ Explored structured outputs and function calling concepts  
+✨ Practiced understanding model behavior and integrations  
 
 ---
 
-# 📅 Day 2 — 14 May 2026
+# 📅 Day 3 — OpenAI API Advanced Topics
 
-## 🧠 Prompt Engineering Fundamentals
-
-### 📚 Learned Today
-- Prompt Engineering Basics
-- Zero-shot & Few-shot Prompting
-- AI Response Optimization
-- Role-based Prompting
-- Temperature & Token Concepts
-
----
-
-### 💡 Key Concepts
-✨ Better prompts improve AI output quality  
-✨ Prompt structure affects response accuracy  
-✨ LLMs can perform multiple tasks using instructions  
+## 📚 Learned Today
+- Vision APIs
+- Audio APIs
+- Image Generation
+- Embeddings
+- Fine-tuning
+- Moderation APIs
 
 ---
 
-### 🛠️ Technologies Explored
-- OpenAI API
-- Groq API
-- Python
+## 💡 Learning Outcome
+✨ Learned how multimodal AI APIs work  
+✨ Explored image, audio, and vision capabilities  
+✨ Understood embeddings and semantic understanding  
+✨ Learned the basics of fine-tuning and moderation systems  
 
 ---
 
-### 🚀 Progress
-✅ Prompt Testing  
-✅ AI Response Experiments  
-✅ Structured Prompt Design  
+# 📅 Day 4 — LangChain Fundamentals
+
+## 📚 Learned Today
+- LangChain Overview
+- Models and Prompts
+- Chains and Agents
+- Tools Integration
+- Semantic Search
+- RAG (Retrieval Augmented Generation)
+- Memory and Context Engineering
 
 ---
 
-# 📅 Day 3 — 15 May 2026
-
-## ⚡ Building First AI Application
-
-### 📚 Learned Today
-- Python API Integration
-- User Input Handling
-- AI Chat Application Basics
-- Error Handling
-- Streamlit Basics
+## 💡 Learning Outcome
+✨ Learned how LangChain helps build AI-powered applications  
+✨ Explored AI agents, tools, and memory systems  
+✨ Understood the basics of RAG workflows  
+✨ Learned concepts behind context-aware AI systems  
 
 ---
 
-### 💡 Key Concepts
-✨ APIs connect applications with AI models  
-✨ Streamlit simplifies web app development  
-✨ Proper error handling improves reliability  
+# 📅 Day 5 — Advanced LangChain & LangGraph
+
+## 📚 Learned Today
+- SQL Agents
+- Voice Agents
+- Multi-Agent Systems
+- Subagents and Router Patterns
+- LangGraph Basics
+- Graph Workflows and State Management
+- Functional API
+- LangSmith Monitoring
 
 ---
 
-### 🛠️ Technologies Explored
-- Python
-- Streamlit
-- Groq API
+## 💡 Learning Outcome
+✨ Gained understanding of advanced AI workflows  
+✨ Explored multi-agent orchestration concepts  
+✨ Learned graph-based AI workflow design  
+✨ Understood monitoring and debugging workflows using LangSmith  
 
 ---
 
-### 🚀 Progress
-✅ Basic AI Chat App Built  
-✅ User Input + AI Output Workflow Completed  
+# 📅 Day 6 — AI Voice Emergency & Safety Assistant
 
----
-
-# 📅 Day 4 — 16 May 2026
-
-## 🧩 LangChain & AI Workflow Basics
-
-### 📚 Learned Today
-- Introduction to LangChain
-- Chains & Prompt Templates
-- AI Workflow Design
-- Modular AI Architecture
-- Context Handling
-
----
-
-### 💡 Key Concepts
-✨ LangChain simplifies AI orchestration  
-✨ Modular workflows improve scalability  
-✨ Prompt templates make systems reusable  
-
----
-
-### 🛠️ Technologies Explored
-- LangChain
-- Python
-- Streamlit
-
----
-
-### 🚀 Progress
-✅ LangChain Setup Completed  
-✅ Prompt Workflow Testing Done  
-
----
-
-# 📅 Day 5 — 17 May 2026
-
-## 🎯 AI Project Development
-
-### 📚 Learned Today
-- Project Structuring
-- API Security Practices
-- Environment Variables
-- Git & GitHub Workflow
-- README Documentation
-
----
-
-### 💡 Key Concepts
-✨ Good project structure improves maintainability  
-✨ Environment variables secure API keys  
-✨ Documentation is essential for projects  
-
----
-
-### 🛠️ Technologies Explored
-- GitHub
-- Python
-- Streamlit
-
----
-
-### 🚀 Progress
-✅ GitHub Project Upload  
-✅ README Documentation Started  
-
----
-
-# 📅 Day 6 — 18 May 2026
-
-## 🎙️ AI Voice Emergency & Safety Assistant
+## 🎙️ Project Started
 
 ### 📚 Learned Today
 - AI Voice Assistant using Groq & Whisper
@@ -208,7 +140,7 @@
 
 ---
 
-### 💡 Key Concepts
+## 💡 Key Concepts
 ✨ Voice assistants combine speech processing with LLM workflows  
 ✨ Streamlit enables rapid AI app development  
 ✨ Environment variables improve API security  
@@ -216,7 +148,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Groq API
 - Whisper
 - Streamlit
@@ -224,14 +156,14 @@
 
 ---
 
-### ✅ Implemented Features
+## ✅ Implemented Features
 - Streamlit UI
 - Groq API Integration
 - AI Response Generation
 
 ---
 
-### 🔄 Upcoming Features
+## 🔄 Upcoming Features
 - Voice-to-Text
 - Emergency Detection
 - RAG-based Knowledge Retrieval
@@ -239,18 +171,9 @@
 
 ---
 
-### 🔗 Resources
-- Groq Console → https://console.groq.com/keys
-- Streamlit Docs → https://docs.streamlit.io/
-- LangChain Docs → https://docs.langchain.com/oss/python/learn
+# 📅 Day 7 — AI Voice Emergency Assistant
 
----
-
-# 📅 Day 7 — 19 May 2026
-
-## 🎙️ AI Voice Emergency Assistant
-
-### 📚 Learned Today
+## 📚 Learned Today
 - Whisper AI Speech-to-Text
 - Streamlit Voice App Development
 - Groq API + Llama 3.3 Integration
@@ -259,7 +182,7 @@
 
 ---
 
-### 💡 Key Concepts
+## 💡 Key Concepts
 ✨ Voice AI combines speech recognition with LLMs  
 ✨ Whisper improves speech-to-text accuracy  
 ✨ Streamlit enables fast AI app development  
@@ -267,25 +190,23 @@
 
 ---
 
-### ✅ Features Completed
+## ✅ Features Completed
 - Voice Recording
 - Speech-to-Text
 - AI Emergency Responses
 
 ---
 
-### 🔄 Upcoming Features
+## 🔄 Upcoming Features
 - Emergency Detection
 - Conversational Memory
 - Multi-Language Support
 
 ---
 
-# 📅 Day 8 — 20 May 2026
+# 📅 Day 8 — AI Document Q&A System (RAG)
 
-## 📄 AI Document Q&A System (RAG)
-
-### 📚 Learned Today
+## 📚 Learned Today
 - LangChain Framework Basics
 - PDF Document Processing
 - Text Chunking Techniques
@@ -296,7 +217,7 @@
 
 ---
 
-### 💡 Key Concepts
+## 💡 Key Concepts
 ✨ RAG combines retrieval with LLM-based answering  
 ✨ Vector embeddings help AI understand document meaning  
 ✨ FAISS enables fast semantic similarity search  
@@ -304,7 +225,7 @@
 
 ---
 
-### ✅ Implemented Features
+## ✅ Implemented Features
 - PDF Upload Handling
 - Text Extraction & Chunking
 - Vector Embedding Generation
@@ -313,11 +234,7 @@
 
 ---
 
-# 📅 Day 9 — 21 May 2026
-
-# 🚨 AI Voice Emergency Assistant Progress
-
----
+# 📅 Day 9 — AI Voice Emergency Assistant Progress
 
 ## 🟥 Module 3 — Emergency Detection Engine
 
@@ -348,23 +265,19 @@ User + AI Messages → Session State Storage → Chat History
 
 ---
 
-### ⚡ Impact
+## ⚡ Impact
 AI now understands emergency situations and remembers conversation history for more accurate responses.
 
 ---
 
-### 🚀 Status
+## 🚀 Status
 ✅ Modules 3 & 4 Successfully Integrated
 
 ---
 
-# 📅 Day 10 — 22 May 2026
+# 📅 Day 10 — AI Data Visualization Assistant
 
-# 📊 AI Data Visualization Assistant
-
----
-
-## 🟦 Module — Data Analysis + AI Insights
+## 📊 Module — Data Analysis + AI Insights
 
 ### ✅ Implemented Features
 - CSV Dataset Upload
@@ -374,7 +287,7 @@ AI now understands emergency situations and remembers conversation history for m
 
 ---
 
-### 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - Python
 - Streamlit
 - Pandas
@@ -382,7 +295,7 @@ AI now understands emergency situations and remembers conversation history for m
 
 ---
 
-### ⚡ Impact
+## ⚡ Impact
 AI can analyze uploaded datasets and generate intelligent insights automatically.
 
 ---
@@ -414,6 +327,7 @@ AI can analyze uploaded datasets and generate intelligent insights automatically
 ---
 
 # 📌 Current Focus
+
 - Voice AI Systems
 - RAG Applications
 - AI Automation
