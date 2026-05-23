@@ -300,6 +300,33 @@ AI can analyze uploaded datasets and generate intelligent insights automatically
 
 ---
 
+# 📅 Day 11 — AI Voice Emergency Assistant
+
+## 🚨 Module — Emergency Detection + Voice AI
+
+### ✅ Implemented Features
+- Text and Voice-Based Emergency Interaction
+- Whisper Speech-to-Text Integration
+- AI Emergency Detection using Groq LLM
+- Multi-language Support
+- Live Location Sharing
+- Conversation Memory
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- Streamlit
+- Groq API
+- Whisper AI
+
+---
+
+## ⚡ Impact
+AI can detect emergency situations from voice/text input and provide intelligent real-time emergency assistance.
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
