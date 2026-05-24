@@ -340,6 +340,8 @@ AI can detect emergency situations from voice/text input and provide intelligent
 - Message Types in AI Systems
 - Structured Output Generation
 
+--- 
+
 ## 💡 Learning Outcome
 
 ✨ Learned the basics of Agentic AI and autonomous AI workflows
