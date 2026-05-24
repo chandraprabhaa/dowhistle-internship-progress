@@ -327,6 +327,29 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+### 📅 Day 12 — Agentic AI & LangChain Fundamentals
+
+## 📚 Learned Today
+
+- Introduction to Agentic AI
+- LangChain Framework Basics
+- LangGraph Workflows
+- LLM Model Integration
+- Python Environment & UV Package Manager
+- AI Tools and Tool Calling
+- Message Types in AI Systems
+- Structured Output Generation
+
+## 💡 Learning Outcome
+
+✨ Learned the basics of Agentic AI and autonomous AI workflows
+✨ Explored LangChain and LangGraph for building AI agents and workflows
+✨ Understood integration of multiple LLMs like OpenAI GPT, Gemini, and Grok APIs
+✨ Practiced AI tool calling, message handling, and workflow execution
+✨ Learned structured AI outputs using Pydantic and TypedDict for reliable responses
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
