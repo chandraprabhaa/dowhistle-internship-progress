@@ -377,6 +377,29 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+### 📅 Day 14 — AI Voice Emergency Assistant Enhancement
+
+## 📚 Learned Today
+
+* Nearby Hospital Finder Integration
+* Nearby Police Station Suggestions
+* Nearby Ambulance Service Detection
+* Emergency Chat Download Feature
+* Improved README Documentation
+* Advanced Streamlit UI Structuring
+
+## 💡 Learning Outcome
+
+✨ Enhanced the AI Voice Emergency Assistant with nearby emergency service support
+
+✨ Added hospital, police, and ambulance suggestions using Google Maps integration
+
+✨ Implemented emergency chat history download functionality
+
+✨ Improved project architecture, documentation, and overall application structure
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
