@@ -288,7 +288,6 @@ AI now understands emergency situations and remembers conversation history for m
 ---
 
 ## 🛠️ Technologies Used
-- Python
 - Streamlit
 - Pandas
 - Groq API
@@ -315,7 +314,7 @@ AI can analyze uploaded datasets and generate intelligent insights automatically
 ---
 
 ## 🛠️ Technologies Used
-- Python
+- LangChain
 - Streamlit
 - Groq API
 - Whisper AI
