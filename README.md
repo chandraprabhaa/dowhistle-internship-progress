@@ -422,6 +422,27 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+### 📅 Day 16 — AI Voice Emergency Assistant Enhancement
+
+## 📚 Learned Today
+
+* Implemented Emergency Severity Score (1–10 Risk Level)
+* Added AI-based emergency risk evaluation system
+* Integrated severity score with emergency detection flow
+* Displayed real-time risk level with UI feedback (Low / Moderate / Critical)
+
+## 💡 Learning Outcome
+
+✨ Added intelligent severity scoring to measure emergency risk level
+
+✨ Improved emergency classification with priority-based response system
+
+✨ Enhanced UI feedback for better user understanding during emergencies
+
+✨ Made system more accurate in identifying critical situations
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
