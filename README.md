@@ -460,9 +460,13 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ## 💡 Learning Outcome
 
 ✨ Learned the fundamentals of Google ADK architecture
+
 ✨ Understood how agents, tools, and runners interact in ADK
+
 ✨ Explored structured outputs for reliable AI responses
+
 ✨ Learned session and state management for conversational continuity
+
 ✨ Gained knowledge of model integrations using Gemini and LightLLM
 
 ---
