@@ -443,6 +443,30 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+# 📅 Day 17 — Google ADK Foundations & Agent Basics
+
+## 📚 Learned Today
+
+* Introduction to Google ADK
+* Installation & Environment Setup
+* Agents and Root Agent Architecture
+* Structured Output using Pydantic
+* Model Configuration with Gemini & LightLLM
+* Tools in ADK (Custom Functions & Built-in Tools)
+* Session, Runner, and State Management
+
+---
+
+## 💡 Learning Outcome
+
+✨ Learned the fundamentals of Google ADK architecture
+✨ Understood how agents, tools, and runners interact in ADK
+✨ Explored structured outputs for reliable AI responses
+✨ Learned session and state management for conversational continuity
+✨ Gained knowledge of model integrations using Gemini and LightLLM
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
