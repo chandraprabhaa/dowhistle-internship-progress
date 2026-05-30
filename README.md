@@ -457,6 +457,7 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+
 ## 💡 Learning Outcome
 
 ✨ Learned the fundamentals of Google ADK architecture
@@ -468,6 +469,27 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ✨ Learned session and state management for conversational continuity
 
 ✨ Gained knowledge of model integrations using Gemini and LightLLM
+
+---
+
+### 📅 Day 18 — Multi-Agent Systems & Advanced ADK Concepts
+
+📚 Learned Today
+
+- Multi-Agent Systems (MAS) in ADK
+- Sequential, Parallel, and Loop Workflow Agents
+- Callbacks and Lifecycle Hooks
+- Model Context Protocol (MCP) Integration
+- E-Commerce Recommendation Multi-Agent Project
+
+---
+
+## 💡 Learning Outcome
+
+✨ Learned how multi-agent systems coordinate specialized tasks
+✨ Explored workflow orchestration using sequential, loop, and parallel agents
+✨ Understood callbacks for monitoring, validation, and customization
+✨ Learned MCP integration for scalable tool interoperability
 
 ---
 
