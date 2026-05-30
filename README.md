@@ -474,7 +474,7 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ### 📅 Day 18 — Multi-Agent Systems & Advanced ADK Concepts
 
-📚 Learned Today
+## 📚 Learned Today
 
 - Multi-Agent Systems (MAS) in ADK
 - Sequential, Parallel, and Loop Workflow Agents
@@ -487,8 +487,11 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ## 💡 Learning Outcome
 
 ✨ Learned how multi-agent systems coordinate specialized tasks
+
 ✨ Explored workflow orchestration using sequential, loop, and parallel agents
+
 ✨ Understood callbacks for monitoring, validation, and customization
+
 ✨ Learned MCP integration for scalable tool interoperability
 
 ---
