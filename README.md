@@ -496,9 +496,36 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+### 📅 Day 19 — Production-Ready RAG Systems
+
+## 📚 Learned Today
+
+- RAG Pipeline & Retrieval Workflows
+- Chunking, Embeddings & Vector Databases
+- Hybrid Search & Contextual Retrieval
+- RAG Failure Modes & Optimization
+- LangSmith Observability
+- Agentic RAG, Graph RAG & Multimodal RAG
+- FastAPI, Docker & Deployment
+
+---
+
+## 💡 Learning Outcome
+
+✨ Learned how to build and scale production-ready RAG applications
+
+✨ Explored advanced retrieval techniques for better accuracy
+
+✨ Understood monitoring, security, and deployment best practices
+
+✨ Gained insights into Agentic, Graph, and Multimodal RAG systems
+
+---
+
 # 🛠️ Technologies Explored
 
-<p align="center">
+<p align="c-
+  nter">
   <img src="https://skillicons.dev/icons?i=python,github,vscode,streamlit" />
 </p>
 
