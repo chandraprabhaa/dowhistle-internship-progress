@@ -543,12 +543,6 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ✨ Built foundation for RAG-based AI system
 
-## 🚀 Next Step
-
-👉 Convert agents into LangChain-powered AI agents using Gemini API
-
-👉 Add LangGraph workflow orchestration
-
 ---
 
 # 🛠️ Technologies Explored
