@@ -536,16 +536,18 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ## 💡 Learning Outcome
 
 ✨ Understood multi-agent system design
+
 ✨ Implemented basic agent-to-agent workflow
+
 ✨ Strengthened project structure for LangChain + LangGraph upgrade
+
 ✨ Built foundation for RAG-based AI system
 
-🚀 Next Step
+## 🚀 Next Step
 
-👉 
-Convert agents into LangChain-powered AI agents using Gemini API
-👉 
-Add LangGraph workflow orchestration
+👉 Convert agents into LangChain-powered AI agents using Gemini API
+
+👉 Add LangGraph workflow orchestration
 
 ---
 
