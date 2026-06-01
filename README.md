@@ -547,8 +547,7 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 # 🛠️ Technologies Explored
 
-<p align="c-
-  nter">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,github,vscode,streamlit" />
 </p>
 
