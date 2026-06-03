@@ -569,21 +569,6 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
-# 🛠️ Technologies Explored
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,github,vscode,streamlit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-API-black?logo=openai&style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-AgenticAI-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-VectorDB-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=flat-square"/>
-</p>
-
----
-
 ### 📅 Day 22 — AI Organization OS Enhancement
 
 ## 📚 Learned Today
@@ -604,6 +589,21 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ✨ Automated business insights generation
 
 ✨ Strengthened foundation for LangGraph integration
+
+---
+
+# 🛠️ Technologies Explored
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,github,vscode,streamlit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-API-black?logo=openai&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-AgenticAI-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-VectorDB-success?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Groq-LLM-orange?style=flat-square"/>
+</p>
 
 ---
 
