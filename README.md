@@ -634,6 +634,26 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ---
 
+### 📅 Day 25 — System Design Fundamentals
+
+## 📚 Learned Today
+
+• System Design Basics, Components, and Architecture
+• Functional & Non-Functional Requirements
+• DNS, REST APIs, GraphQL, gRPC, and WebSockets
+• SQL vs NoSQL Databases and Caching Strategies
+• Load Balancing, Scaling, Replication, and Security
+
+## 💡 Learning Outcome
+
+✨ Learned how scalable systems are designed for millions of users.
+✨ Understood database selection and distributed system trade-offs.
+✨ Explored caching and load balancing to improve performance.
+✨ Studied CAP Theorem, Message Queues, and Fault Tolerance.
+✨ Gained knowledge of JWT, OAuth, RBAC, and API Security practices.
+
+---
+
 # 🛠️ Technologies Explored
 
 <p align="center">
