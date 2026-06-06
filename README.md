@@ -652,15 +652,13 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ## 💡 Learning Outcome
 
-✨ Learned how scalable systems are designed for millions of users.
+✨ Learned how scalable systems are designed. 
 
-✨ Understood database selection and distributed system trade-offs.
+✨ Understood database selection and distributed system. 
 
 ✨ Explored caching and load balancing to improve performance.
 
 ✨ Studied CAP Theorem, Message Queues, and Fault Tolerance.
-
-✨ Gained knowledge of JWT, OAuth, RBAC, and API Security practices.
 
 ---
 
