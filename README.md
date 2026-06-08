@@ -666,15 +666,15 @@ AI can detect emergency situations from voice/text input and provide intelligent
 
 ## 📚 Learned Today
 
--Integrated LangGraph into the project
+- Integrated LangGraph into the project
 
--Converted agents into LangGraph workflow nodes
+- Converted agents into LangGraph workflow nodes
 
--Connected CEO, Research, Analyst, and QA agents
+- Connected CEO, Research, Analyst, and QA agents
 
--Automated agent execution through a structured workflow
+- Automated agent execution through a structured workflow
 
--Enhanced modular multi-agent orchestration system
+- Enhanced modular multi-agent orchestration system
 
 ---
 
