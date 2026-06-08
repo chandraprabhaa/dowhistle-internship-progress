@@ -667,9 +667,13 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ## 📚 Learned Today
 
 -Integrated LangGraph into the project
+
 -Converted agents into LangGraph workflow nodes
+
 -Connected CEO, Research, Analyst, and QA agents
+
 -Automated agent execution through a structured workflow
+
 -Enhanced modular multi-agent orchestration system
 
 ---
@@ -677,7 +681,9 @@ AI can detect emergency situations from voice/text input and provide intelligent
 ## 💡 Learning Outcome
 
 ✨ Learned LangGraph agent orchestration
+
 ✨ Improved workflow design and scalability
+
 ✨ Built a structured multi-agent AI pipeline
 
 ---
